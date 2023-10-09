@@ -1,1 +1,0 @@
-pypi-cleanup -u flet -p flet -y -r '0.6.0.dev12' --do-it
